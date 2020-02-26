@@ -2,7 +2,7 @@ enablePlugins(ScalaJSBundlerPlugin)
 
 enablePlugins(ScalaJSPlugin)
 
-libraryDependencies += "com.lihaoyi" %%% "upickle" % "0.9.9"
+libraryDependencies += "com.lihaoyi" %%% "upickle" % "1.0.0"
 
 libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "1.0.0"
 
